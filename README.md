@@ -31,12 +31,3 @@ I'm building independent projects to deepen my knowledge of backend engineering,
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/aleksandr-antropov) · [GitHub](https://github.com/aleksanderantropov)
-
-### About this repository
-
-This is my GitHub profile repository. Its root `README.md` introduces my work and links to the code repositories above.
-
-- **Architecture:** GitHub renders this Markdown file on my profile; there is no application runtime or data flow.
-- **Engineering focus:** the linked projects contain the implementation details and technical tradeoffs.
-- **How to run it:** no installation or configuration is needed. Open the profile or preview `README.md` in a Markdown viewer.
-- **Current limitations:** this page is an overview. Follow each repository for setup instructions, implemented features, and planned improvements.
