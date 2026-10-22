@@ -12,6 +12,18 @@ My experience includes:
 - **Technical leadership:** Planning engineering work, reviewing code, and collaborating with product, design, QA, and backend teams.
 - **AI initiatives:** Exploring practical AI adoption in engineering workflows.
 
+### Public projects
+
+| Project | What to inspect |
+| --- | --- |
+| [Financial Backend](https://github.com/aleksanderantropov/financial-backend) | Fastify and PostgreSQL: transactional transfers, row locking, and idempotent retries. |
+| [Train Search Project](https://github.com/aleksanderantropov/train-search-project) | Next.js, React, and Redux Toolkit: a results interface backed by bundled sample data. |
+| [Tower Crawler](https://github.com/aleksanderantropov/tower-crawler) | TypeScript and Canvas: procedural maps, turn-based combat, visibility, and animation. |
+| [Kicker](https://github.com/aleksanderantropov/kicker) | PHP and SQLite: league schedules, match reports, standings, and player ratings. |
+| [TorrentStream](https://github.com/aleksanderantropov/torrentstream) | Node.js: a custom BitTorrent client connected to an FFmpeg/HLS playback pipeline. |
+
+Each project README explains its architecture, engineering challenges, local setup, and current limitations. These repositories include prototypes and learning projects; their READMEs distinguish current behavior from future improvements.
+
 ### Currently exploring
 
 I'm building independent projects to deepen my knowledge of backend engineering, databases, and distributed systems.
@@ -19,3 +31,12 @@ I'm building independent projects to deepen my knowledge of backend engineering,
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/aleksandr-antropov) · [GitHub](https://github.com/aleksanderantropov)
+
+### About this repository
+
+This is my GitHub profile repository. Its root `README.md` introduces my work and links to the code repositories above.
+
+- **Architecture:** GitHub renders this Markdown file on my profile; there is no application runtime or data flow.
+- **Engineering focus:** the linked projects contain the implementation details and technical tradeoffs.
+- **How to run it:** no installation or configuration is needed. Open the profile or preview `README.md` in a Markdown viewer.
+- **Current limitations:** this page is an overview. Follow each repository for setup instructions, implemented features, and planned improvements.
